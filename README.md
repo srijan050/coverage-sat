@@ -98,6 +98,9 @@ Additional gate examples for testing can be found [here](https://en.wikipedia.or
 * NAND Gate
 * NOR Gate
 
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/51049aea-7950-46c7-bc8f-9acd42bb8fd8" />
+
+
 ## Future Work
 
 * Automate CNF generation instead of current manual definitions.
